@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="game_titles">
+        <item>Mount and Blade II: Bannerlord</item>
+        <item>Fallout 4</item>
+        <item>Grand Theft Auto V</item>
+        <item>Kingdom Come: Deliverance</item>
+        <item>Payday 2</item>
+        <item>Red Dead Redemption 2</item>
+        <item>The Elder Scrolls V: Skyrim</item>
+        <item>The Witcher 3: Wild Hunt</item>
+    </string-array>
+</resources>
